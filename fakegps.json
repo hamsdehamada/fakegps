@@ -1,0 +1,23 @@
+[
+    {
+        "device_id": "9a827d4dd847e0e8",
+        "username": "user1",
+        "password": "1111",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "f06039a0c5755521",
+        "username": "user2",
+        "password": "pass456",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ad64e3af8fb1939d",
+        "username": "trial",
+        "password": "1234",
+        "expirydate": "17-09-2025",
+        "Allowoffline": false
+    }
+]
