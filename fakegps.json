@@ -3,14 +3,14 @@
         "device_id": "9a827d4dd847e0e8",
         "username": "user1",
         "password": "1111",
-        "expirydate": "15-09-2025",
+        "expirydate": "29-09-2027",
         "Allowoffline": false
     },
     {
-        "device_id": "f06039a0c5755521",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-09-2025",
+        "device_id": "fd812f59e6c1827a",
+        "username": "falfgps",
+        "password": "1919",
+        "expirydate": "07-10-2025",
         "Allowoffline": false
     },
     {
