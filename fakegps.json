@@ -69,6 +69,13 @@
         "expirydate": "12-08-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "f287826670a22cda",
+        "username": "nguyenfgps",
+        "password": "lifetimefgps",
+        "expirydate": "21-07-2029",
+        "Allowoffline": false
+    },
         {
         "device_id": "1c38c08c3d500736",
         "username": "fajarfgps",
